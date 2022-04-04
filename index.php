@@ -11,6 +11,10 @@
 <body>
     <h1>hello world</h1>
     <p>Lorem ipsum dolor sit.</p>
+    <ul>
+        <li>1</li>
+        <li>2</li>
+    </ul>
 </body>
 
 </html>
